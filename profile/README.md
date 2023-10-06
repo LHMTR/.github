@@ -9,7 +9,7 @@ This is the Github of Lvhai Metro! Lvhai Metro has been established since 2021 a
 If you want to become our member or review, please send an email to XPGD_LHMTR@outlook.com, and we will get to know you. When you pass our test, you will become our member or auditor! ( We will give you permission to change the code and manage fork and let you join our team.)
 ## 服务器和聊天 Server and Tell
 加入我们的[Slack](https://join.slack.com/t/lhmtr/shared_invite/zt-24ehibv8n-876ogA2SxLHZNRwujjUP~A)
-Join us Slack!
+Join our Slack!
 ## 在绿海地铁成立组织？In Lvhai Metro Create a Organization？
 只需要在[Organizations](https://github.com/LHMTR/Organizations)中提交组织信息就可以了！
 Just submit the organization information in [Organizations] (https://github.com/LHMTR/Organizations)!
