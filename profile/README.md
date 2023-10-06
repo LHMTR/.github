@@ -12,4 +12,4 @@ If you want to become our member or review, please send an email to XPGD_LHMTR@o
 Join our Slack!
 ## 在绿海地铁成立组织？In Lvhai Metro Create a Organization？
 只需要在[Organizations](https://github.com/LHMTR/Organizations)中提交组织信息就可以了！
-Just submit the organization information in [Organizations] (https://github.com/LHMTR/Organizations)!
+Just submit the organization information in [Organizations](https://github.com/LHMTR/Organizations)!
