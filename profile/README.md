@@ -9,10 +9,17 @@ This is the Github of Lvhai Metro! Lvhai Metro has been established since 2021 a
 If you want to become our member or review, please send an email to XPGD_LHMTR@outlook.com, and we will get to know you. When you pass our test, you will become our member or auditor! ( We will give you permission to change the code and manage repositorys and let you join our team.)
 ## 链接 Links
 > Gitlab(无法访问我们的Github可以使用):https://gitlab.com/LHMTR
+> 
 > Youtube:https://www.youtube.com/channel/UCnss5JRyQoarGoW4mWwgkzg
+> 
 > twitter(X):https://twitter.com/wzdxpgd50938
+> 
 > Discord:https://discord.gg/Nw4HxEqnqz
+> 
 > Patreon:https://www.patreon.com/user?u=105158087
+> 
 > Opencolive:https://opencollective.com/LHMTR
+> 
 > Modrinth:https://modrinth.com/lhmtr/...
+> 
 > Curseforge:https://curseforge.com/lhmtr/...
