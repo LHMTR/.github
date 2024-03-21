@@ -14,7 +14,7 @@ If you want to become our member or review, please send an email to XPGD_LHMTR@o
 > 
 > twitter(X):https://twitter.com/wzdxpgd50938
 > 
-> Discord:https://discord.gg/Nw4HxEqnqz
+> Discord:https://discord.gg/rU4sCMsm
 > 
 > Patreon:https://www.patreon.com/user?u=105158087
 > 
